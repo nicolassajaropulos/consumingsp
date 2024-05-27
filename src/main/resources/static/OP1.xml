@@ -1,0 +1,7 @@
+<xmlDatos>
+    <edad>%d</edad>
+    <flagventa>%d</flagventa>
+    <empleado>%d</empleado>
+    <sucursal>%d</sucursal>
+    <ciudad>%d</ciudad>
+</xmlDatos>
